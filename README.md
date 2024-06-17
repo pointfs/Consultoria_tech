@@ -9,10 +9,10 @@
 
 <!-- Instalacion -->
 
-#Poner comandos de la terminal para la descarga de los archivos
+# Poner comandos de la terminal para la descarga de los archivos
 
 <!-- Modo de uso -->
-
+ 
 # Desliza por la web descubriendo los diferentes elementos que la conforman, aumenta o disminuye el tamaño del viewport para probar el diseño responsive e interatua con los elementos hover and clicker como el menu hamburguesa o la seccion de proyectos
 
 <!-- Como pueden colaborar los demás con el proyecto -->
