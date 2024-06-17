@@ -9,7 +9,7 @@
 
 <!-- Instalacion -->
 
-poner comandos de la terminal para la descarga de los archivos
+#Poner comandos de la terminal para la descarga de los archivos
 
 <!-- Modo de uso -->
 
